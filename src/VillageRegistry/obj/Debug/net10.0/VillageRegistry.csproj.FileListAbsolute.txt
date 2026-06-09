@@ -1,0 +1,15 @@
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\bin\Debug\net10.0\VillageRegistry.exe
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\bin\Debug\net10.0\VillageRegistry.deps.json
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\bin\Debug\net10.0\VillageRegistry.runtimeconfig.json
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\bin\Debug\net10.0\VillageRegistry.dll
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\bin\Debug\net10.0\VillageRegistry.pdb
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.AssemblyInfoInputs.cache
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.AssemblyInfo.cs
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.csproj.CoreCompileInputs.cache
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.sourcelink.json
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.dll
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\refint\VillageRegistry.dll
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.pdb
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\VillageRegistry.genruntimeconfig.cache
+C:\Users\katva\Documents\.CodingProjects\IAM-Dungeon\src\VillageRegistry\obj\Debug\net10.0\ref\VillageRegistry.dll
