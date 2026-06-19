@@ -14,7 +14,7 @@ namespace VillageRegistry
             name = Console.ReadLine();
 
             Console.WriteLine("How many winters have you seen?");
-            age = int.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out age);
 
             Console.WriteLine("What path do you follow? (Warrior, Mage, Rogue, wizard, etc)");
             classType = Console.ReadLine();
