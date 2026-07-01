@@ -90,16 +90,9 @@ Created the Village Registry onboarding process that collects:
 
 The system stores the information in variables and displays a formatted Adventurer Profile.
 
-#### Why It Matters
-Most applications collect information from users and store it in variables for later processing. Learning how to capture, store, and display data is a foundational programming skill that will be used throughout IAM Dungeon.
-
 #### Challenges Encountered
 - Learned that `int.Parse()` can crash the application when invalid input is entered.
 - Replaced `int.Parse()` with `int.TryParse()` to safely handle user input.
-
-#### Git Commit(s)
-- declare adventurer variables before assignment
-- add safe parsing for adventurer age input
 
 ### Milestone: Registration Validation
 
@@ -118,19 +111,27 @@ Implemented a registration validation system for the Knights of Identity.
 After an adventurer completes registration, the system evaluates whether they are eligible to join the Knights of Identity based on their age.
 The access validation logic was moved into a dedicated `CheckWinters()` method, making the code more organized and reusable.
 
-#### Why It Matters
-
-Programs often need to make decisions based on data provided by users.
-This milestone introduced the concept of authorization logic, where access is granted or denied based on predefined rules.
-Moving the validation logic into a method also demonstrated how software can separate responsibilities and avoid repeating code.
-
 #### Challenges Encountered
 
 * Learned the difference between placing logic directly inside `Main()` and moving logic into a reusable method.
 * Learned how parameters allow methods to work with data collected elsewhere in the program.
 * Learned that comparison operators evaluate to either `true` or `false`, which can then drive program decisions.
 
-#### Git Commit(s)
 
-* add age-based access validation for Knights of Identity
-* move access validation into reusable method
+### Milestone: Kingdom Gates Introduction
+
+### Concepts Learned
+
+* Console.WriteLine()
+* Console.ReadLine()
+* Variables (string, int, bool)
+* int.TryParse()
+* if/else
+* Methods and parameters
+
+### What I Built
+
+* Added an ASCII title screen.
+* Created the opening story for the Kingdom of Authoria.
+* Introduced the Kingdom Gates and the first NPC.
+* Began the Village Registry registration process.
